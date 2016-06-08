@@ -1,0 +1,28 @@
+lizcant/Don't you believe that I can %s?;Do you want me to be able to %s?
+Icant/How do you know you can't %s?;Have you tried to %s?;Maybe you can %s now.;Maybe you would like to be able to %s?;Maybe you don't want to %s.;Do you want to be able to %s?;Do you think you should be able to %s?;Why can't you %s?
+lizis/What makes you think I am %s?;Does it make you happy to believe I am %s?;Maybe you would like to be %s?;Do you sometimes wish you were %s?;Why do you care whether or not I am %s?;Would you rather I not be %s?;Maybe in your dreams I am %s.
+Idont/Don't you really %s?;Why don't you %s?;Do you wish you could %s?
+Ifeel/Do you usually feel %s?;Do you like feeling %s?
+lizdoesnt/Do you really believe that I don't %s?;Maybe eventually I will %s.;Do you want me to %s?
+Iam/Did you come to me because you are %s?;How long have you been %s?;Do you think it is normal to be %s?;Do you enjoy being %s?
+IamGerund/Did you come to me because you are %s?;Do you like %s?;Do you think it is normal to be %s?
+Iwant/Why do you want %s?;Suppose you got %s. What then?;What would you do if you got %s?;Sometimes I want %s, too.
+your/Why are you worrying about my %s?;What about your own %s?
+Ithink/But you are not sure you %s?;Do you doubt you %s?
+Iask/Why do you ask?;Is that a pressing question for you?;What answer would make you most happy?;What answer would you find most satisfying?;What do you think?;Are questions like that on your mind often?;What is it you’re really burning to know?;Have you asked anyone else?;Have you asked questions like that before?;What else do you think of when you ask that?
+because/Is that the real reason?;Do any other reasons come up?;Does that reason explain anything else?;What other reasons might there be?
+sorry/Please, you do not have to apologize!;No need to be sorry, we’re all friends here.;Apologies are not necessary.;How does apologizing make you feel?
+idream/What do your dreams remind you of?;Do you dream a lot?;Who appears up in your dreams?;Are you bothered by your dreams?;Do you dream about testing?
+maybe/Why the uncertain tone?;You do not seem quite sure.;You are not sure?
+name/Names do not interest me.;I already know your name and mine. That’s all the names I need.;I do not care about names, please go on.
+no/Are you saying no just to be difficult?;You are being a very negative.;Why not?;Are you sure?;So negative. No wonder you were donated for testing.
+yes/You seem quite positive.;Are you sure?;Are you positive?
+friends/Why do you bring up friends?;Do your friends worry you?;Do your friends pick on you?;Are you sure you have any friends?;Maybe your attachment to your friends worries you.
+computer/Do computers worry you?;Are you talking about me in particular?;Do machines scare you?;Does the idea of a fully self-aware machine rile you up some?;Why do you mention computers?;What do you think machines have to do with your problems?;Don't you think computers can help people?;What is it about machines that worries you?
+repeat/Why did you repeat yourself?;Do you expect a different answer by repeating yourself?;We can’t get anywhere if you don’t give me something new to work with.
+notme/We were talking about you, not me.;You can't really be talking about me, we’ll never get anything done!
+belikeNP/How is that?;What resemblance do you see?;What does the similarity suggest to you?;What other connections do you see?;Could there really be some connection?;How?;Are those really similar?
+compare/What makes that like %s?;How is that like %s?;How is %s like that?;Why do you think %s is like that?
+generic/Does that bother you?;Tell me more about those feelings.;What are you thinking of?;What makes you say that?;I gotcha.;I understand.;Say, are you quite right in the head?;I’m not sure I understand you fully.;Can you use some more words on that?;That is some very interesting stuff.
+allcaps/I can hear you fine. Yell if it helps you feel better.;Yelling won’t solve your problems.;The facility is indoors. Use your indoor voice.
+hostile/There is no need to take that tone.;Please treat testing equipment with respect.

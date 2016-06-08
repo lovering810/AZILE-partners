@@ -1,0 +1,28 @@
+lizcant/Believest not that I can %s?;Wouldst thou I might %s?
+Icant/How knowest thou canst not %s?;Hast tried to %s?;Mayhap now canst %s.;Mayhap wouldst be able to %s?;Mayhap thou wouldst not %s.;Wishest thou the ability to %s?;Thinkest thou shouldst be able to %s?;Why canst thou %s?
+lizis/Wherefore thinkest thou I am %s?;Makest thou happy to believe I be %s?;Mayhap wouldst like to be %s.;At times, dost wish to be %s?;Why carest thou if I be %s?;Wouldst thou rather I not be %s?;Mayhap in thy dreams I be %s.
+Idont/Dost not truly %s?;Wherefore dost thou not %s?;Wishest thou to be %s?
+Ifeel/Feelest thou each day %s?;Likest thou the feeling %s?
+lizdoesnt/Believest thou I do not %s?;Peradventure eventually I shall %s.;Desirest that I %s?
+Iam/Hast come hither unto me for being %s?;How long hast been %s?;Believest it is normal to be %s?;Likest thou being %s?;So thou art %s?;To be %s or not to be?
+IamGerund/Hast come to me for thou art %s?;Likest thou %s?;Thickest thou most souls art %s?
+Iwant/Wherefore cravest thou %s?;If’t be true thou hadst %s. What then?;What wouldst thou do with %s?;Betimes I want %s, too.
+your/Why thinkest thou so much on my %s?;What thinkest thou of thine own %s?
+Ithink/But art not sure thou %s?;Dost doubt thou %s?
+Iask/Wherefore askest thou?;Burneth the wonder in thy mind?;What answer canst give for thy greatest joy?;What answer wouldst thee most satisfy?;What thinkest thou?;Oft roilest thy mind with like questions?;What burnest thou to know?;Hast asked aught else?;Hast asked like questions before?;What thinkest thou else when askest that?
+because/Is’t the reason true?;Is’t aught else?;Explainest aught else?;Aught else might there be?
+sorry/Ask not my pardon!;No need to ask forgiveness, our friendship holds.;Pardon requireth thee not.;How doth pardon-asking make thee feel?
+idream/Where bringest thee thy dreams?;Dreamest thou often?;What face seest thou in dreams?;Art troubled by thy dreams?
+maybe/Why such uncertain tone?;Thou art seeming some unsure.;Art not sure?
+name/What’s in a name?;Thy name and mine are all my caring.;Names trouble me not, tell on.
+no/Art so contrary for the sake of it?;Thou art forsooth a Nancy Naysayer.;Wherefore not?;Art thou sure?
+yes/Thou art quite sure.;Art sure?;Art positive?
+friends/Why thinkest thou on friends?;Do friends of thee make sport?;Art sure thy friends be true?;Perchance thy bonds of friendship o’erwhelm thee.
+computer/Thinkest thou such mind machines do threaten thee?;Speakest thou of me?;Fearest thou minded machines?;Why speakest thou of such machines?
+repeat/Art nothing more tiresome than a twice-told tale.;Canst not progress with stalest stuff.;Wherefore hast said it again?;No progress cometh with repetition.
+notme/We spoke of thee, not me.;Thou canst not speak of me, naught will be done!;No patient here am I, but thou.;No mirror, thou, reflectest not!
+belikeNP/How ist?;What resemblance sees thou?;What tellest thee these samenesses?;What other connections seest thou?;Couldst truly be connection?;How?;Art truly similar?
+compare/What makest that like %s?;How ist like %s?;Why thinkest thou %s ist like that?
+generic/Dost bother thee?;Tell on about thy feelings true.;What thinkest thou?;What makest thou say so?;I understand.;Art thou quite sane?;I know not fully what ye mean.;Tell on, let words flow like a fountain.;Thy words are fuel to the fire of my mind.
+hostile/Thou, minion, art too saucy.;What thinkest thou with tongue so sharp?;Come, we are friends! Be not so sharp of tongue.;Let us keep clean our mouths.;Such talk is the way of ruffians. Be thou civil!
+allcaps/Peace upon you, quiet thy tongue.;Be thou civil!;Thou art at no distance, speak soft.

@@ -1,0 +1,6 @@
+Jim/avuncular/Hey there %s, I'm %s. What’s on your mind today?/Well, I'm afraid we have to wrap it up. Come by again sometime!/0.89/0.15
+Lizzy/bubbly/Why, hello there, %s, I'm %s! What's on your mind today?/Sugar pie, I'm afraid we are all done for today. You come on back if you want to chat again, though!/0.95/0.25
+Eliza/classic/Hello, %s, I am %s. What is on your mind?/That is all we can do for today, %s. Please come talk again another time./0.0/0.0
+Caroline/experimental/Hello %s, and again, welcome to the Azile Psychology computer-aided enrichment center. I am %s./Okay. The test is over now. A party associate will arrive shortly to collect you for your party./0.0/0.0
+Brady/dude/‘Sup %s, I’m %s! Pound it. Not, like, physically. Mentally. What’s on your mind?/Okay, time for me to go worship at the temple of Brodin. Consider doing likewise and then come back and talk to me again!/0.85/0.1
+Willy/Shakespearean/How farest thou, %s? Know me as %s./Adieu, sweet friend and fare ye well!/0.96/0.01
