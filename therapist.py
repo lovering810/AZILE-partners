@@ -68,8 +68,7 @@ class Therapist:
 		return self.farewell
 
 therapist_directory = {}
-filepath = "/Users/rebecca/Desktop/LangTech/"
-fileget = "%sAzile/therapists/therapy_personalities.txt"%(filepath)
+fileget = "therapists/therapy_personalities.txt"
 infile = open(fileget, "r+w")
 
 personalities = infile.readlines()
@@ -80,11 +79,11 @@ for line in personalities:
 
 	# Get basic info for personality
 	name, kind, intro, farewell, prop_pn, prop_ld  = line.split("/")
-	print name
+	# print name
 
 
 	# Unpack and store dictionary of idiolect replacements
-	dialect_fileget = "%sAzile/therapists/personality_support_files/%s_dialect.txt"%(filepath,name)
+	dialect_fileget = "therapists/personality_support_files/%s_dialect.txt"%(name)
 	infile = open(dialect_fileget,"r")
 	dialects = infile.readlines()
 	dialect = {}
@@ -95,7 +94,7 @@ for line in personalities:
 		dialect[key]=content
 
 	# Unpack and store all responses that go with this personality
-	respond_fileget = "%sAzile/therapists/personality_support_files/%s_responses.txt"%(filepath,name)
+	respond_fileget = "therapists/personality_support_files/%s_responses.txt"%(name)
 	in_file = open(respond_fileget,"r")
 	responses = in_file.readlines()
 	response_dict = {}
@@ -106,17 +105,17 @@ for line in personalities:
 		response_dict[prompt] = answer.split(";")
 
 	# Unpack and store all pet names for this personality
-	petnames_fileget = "%sAzile/therapists/personality_support_files/%s_petnames.txt"%(filepath,name)
+	petnames_fileget = "therapists/personality_support_files/%s_petnames.txt"%(name)
 	infileP = open(petnames_fileget, "r")
 	petnames = infileP.read()
 	petnamen = petnames.split(";")
-	print petnamen
+	# print petnamen
 	for pname in petnamen:
 		if pname[-1]=="\n":
 			pname = pname[:-1]
 
 	# Unpack and store all leading phrases
-	leaders_fileget = "%sAzile/therapists/personality_support_files/%s_leaders.txt"%(filepath,name)
+	leaders_fileget = "therapists/personality_support_files/%s_leaders.txt"%(name)
 	infileL = open(leaders_fileget, "r")
 	leader = infileL.read()
 	leaders = leader.split(";")
