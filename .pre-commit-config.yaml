@@ -1,0 +1,15 @@
+ repos:
+  - repo: https://github.com/psf/black
+    rev: 22.1.0
+    hooks:
+      - id: black
+        args: [--target-version, py310]
+
+  - repo: https://github.com/pycqa/flake8
+    rev: 4.0.1
+    hooks:
+      - id: flake8
+        # NOTE: exclude here, any directory exclusions in .flake8 will not work
+        # see https://flake8.pycqa.org/en/latest/user/using-hooks.html
+        # shoutout Haran
+        exclude: ^(experiments|liquid_practice)/

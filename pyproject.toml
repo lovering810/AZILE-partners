@@ -7,7 +7,7 @@ authors = ["Rebecca Lovering <lovering810@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 pendulum = "^2.1.2"
-spacy = 
+spacy = "^3.0"
 
 [tool.poetry.dev-dependencies]
 black = "^21.12b0"
