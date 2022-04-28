@@ -1,0 +1,13 @@
+[flake8]
+min_python_version = 3.10
+max-line-length = 88
+# Allow omission of a return type hint for __init__ if at least one argument is annotated
+# used by flake8-annotations
+mypy-init-return = true
+ignore =
+    # line too long - we'll let black handle this
+    E501,
+    # line break before binary operator - also a disagreement with black
+    W503
+    # import before doing janky hack manipulation - gotta let it go for now
+    E402
