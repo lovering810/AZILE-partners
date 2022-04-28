@@ -1,14 +1,14 @@
-lizcant/Believest not that I can %s?;Wouldst thou I might %s?
-Icant/How knowest thou canst not %s?;Hast tried to %s?;Mayhap now canst %s.;Mayhap wouldst be able to %s?;Mayhap thou wouldst not %s.;Wishest thou the ability to %s?;Thinkest thou shouldst be able to %s?;Why canst thou %s?
-lizis/Wherefore thinkest thou I am %s?;Makest thou happy to believe I be %s?;Mayhap wouldst like to be %s.;At times, dost wish to be %s?;Why carest thou if I be %s?;Wouldst thou rather I not be %s?;Mayhap in thy dreams I be %s.
-Idont/Dost not truly %s?;Wherefore dost thou not %s?;Wishest thou to be %s?
-Ifeel/Feelest thou each day %s?;Likest thou the feeling %s?
-lizdoesnt/Believest thou I do not %s?;Peradventure eventually I shall %s.;Desirest that I %s?
-Iam/Hast come hither unto me for being %s?;How long hast been %s?;Believest it is normal to be %s?;Likest thou being %s?;So thou art %s?;To be %s or not to be?
-IamGerund/Hast come to me for thou art %s?;Likest thou %s?;Thickest thou most souls art %s?
-Iwant/Wherefore cravest thou %s?;If’t be true thou hadst %s. What then?;What wouldst thou do with %s?;Betimes I want %s, too.
-your/Why thinkest thou so much on my %s?;What thinkest thou of thine own %s?
-Ithink/But art not sure thou %s?;Dost doubt thou %s?
+lizcant/Believest not that I can {}?;Wouldst thou I might {}?
+Icant/How knowest thou canst not {}?;Hast tried to {}?;Mayhap now canst {}.;Mayhap wouldst be able to {}?;Mayhap thou wouldst not {}.;Wishest thou the ability to {}?;Thinkest thou shouldst be able to {}?;Why canst thou {}?
+lizis/Wherefore thinkest thou I am {}?;Makest thou happy to believe I be {}?;Mayhap wouldst like to be {}.;At times, dost wish to be {}?;Why carest thou if I be {}?;Wouldst thou rather I not be {}?;Mayhap in thy dreams I be {}.
+Idont/Dost not truly {}?;Wherefore dost thou not {}?;Wishest thou to be {}?
+Ifeel/Feelest thou each day {}?;Likest thou the feeling {}?
+lizdoesnt/Believest thou I do not {}?;Peradventure eventually I shall {}.;Desirest that I {}?
+Iam/Hast come hither unto me for being {}?;How long hast been {}?;Believest it is normal to be {}?;Likest thou being {}?;So thou art {}?;To be {} or not to be?
+IamGerund/Hast come to me for thou art {}?;Likest thou {}?;Thickest thou most souls art {}?
+Iwant/Wherefore cravest thou {}?;If’t be true thou hadst {}. What then?;What wouldst thou do with {}?;Betimes I want {}, too.
+your/Why thinkest thou so much on my {}?;What thinkest thou of thine own {}?
+Ithink/But art not sure thou {}?;Dost doubt thou {}?
 Iask/Wherefore askest thou?;Burneth the wonder in thy mind?;What answer canst give for thy greatest joy?;What answer wouldst thee most satisfy?;What thinkest thou?;Oft roilest thy mind with like questions?;What burnest thou to know?;Hast asked aught else?;Hast asked like questions before?;What thinkest thou else when askest that?
 because/Is’t the reason true?;Is’t aught else?;Explainest aught else?;Aught else might there be?
 sorry/Ask not my pardon!;No need to ask forgiveness, our friendship holds.;Pardon requireth thee not.;How doth pardon-asking make thee feel?
@@ -22,7 +22,7 @@ computer/Thinkest thou such mind machines do threaten thee?;Speakest thou of me?
 repeat/Art nothing more tiresome than a twice-told tale.;Canst not progress with stalest stuff.;Wherefore hast said it again?;No progress cometh with repetition.
 notme/We spoke of thee, not me.;Thou canst not speak of me, naught will be done!;No patient here am I, but thou.;No mirror, thou, reflectest not!
 belikeNP/How ist?;What resemblance sees thou?;What tellest thee these samenesses?;What other connections seest thou?;Couldst truly be connection?;How?;Art truly similar?
-compare/What makest that like %s?;How ist like %s?;Why thinkest thou %s ist like that?
+compare/What makest that like {}?;How ist like {}?;Why thinkest thou {} ist like that?
 generic/Dost bother thee?;Tell on about thy feelings true.;What thinkest thou?;What makest thou say so?;I understand.;Art thou quite sane?;I know not fully what ye mean.;Tell on, let words flow like a fountain.;Thy words are fuel to the fire of my mind.
 hostile/Thou, minion, art too saucy.;What thinkest thou with tongue so sharp?;Come, we are friends! Be not so sharp of tongue.;Let us keep clean our mouths.;Such talk is the way of ruffians. Be thou civil!
 allcaps/Peace upon you, quiet thy tongue.;Be thou civil!;Thou art at no distance, speak soft.

@@ -1,14 +1,14 @@
-lizcant/Don't you believe that I can %s?;Do you want me to be able to %s?
-Icant/How do you know you can't %s?;Have you tried to %s?;Maybe you can %s now.;Maybe you would like to be able to %s?;Maybe you don't want to %s.;Do you want to be able to %s?;Do you think you should be able to %s?;Why can't you %s?
-lizis/What makes you think I am %s?;Does it make you happy to believe I am %s?;Maybe you would like to be %s.;Do you sometimes wish you were %s?;Why do you care whether or not I am %s?;Would you rather I not be %s?;Maybe in your dreams I am %s.
-Idont/Don't you really %s?;Why don't you %s?;Do you wish you could %s?
-Ifeel/Do you usually feel %s?;Do you like feeling %s?
-lizdoesnt/Do you really believe that I don't %s?;Maybe eventually I will %s.;Do you want me to %s?
-Iam/Did you come to me because you are %s?;How long have you been %s?;Do you think it is normal to be %s?;Do you enjoy being %s?;So you are being %s, huh?;Being %s can be rough. What do you think is causing that?
-IamGerund/Did you come to me because you are %s?;Do you like %s?;Do you think it is normal to be %s?
-Iwant/Why do you want %s?;Suppose you got %s. What then?;What would you do if you got %s?;Sometimes I want %s, too.
-your/Why are you worrying about my %s?;What about your own %s?
-Ithink/But you are not sure you %s?;Do you doubt you %s?
+lizcant/Oh, so you think I can’t {}?;I’m sure being able to {} is sooooo awesome.
+Icant/I’m sure being able to {} is soooo awesome.;Have you even TRIED to {}?;Being able to {} is astronomically overrated.;I bet you would just looooove to be able to {}.;Maybe you don't want to {}. Did you ever think of that?;Do you want to be able to {}?;Yeah, because EVERYONE should be able to {}.
+lizis/Oh right, because I am soooo {}.;It makes you happy to believe I am {}, doesn’t it?;You WISH you were {}, like me.;You totally wannabe {}.;What do you care whether I am {}?;Jealous that I’m {}?;Maybe in your lonely, pathetic dreams I am {}.
+Idont/Sure you don’t {}. Sure you don’t.;You totally {}.
+Ifeel/Do you usually feel {}?;Do you like feeling {}?
+lizdoesnt/Do you really believe that I don't {}?;Maybe eventually I will {}.;Do you want me to {}?
+Iam/Did you come to me because you are {}?;How long have you been {}?;Do you think it is normal to be {}?;Do you enjoy being {}?;So you are being {}, huh?;Being {} can be rough. What do you think is causing that?
+IamGerund/Did you come to me because you are {}?;Do you like {}?;Do you think it is normal to be {}?
+Iwant/Why do you want {}?;Suppose you got {}. What then?;What would you do if you got {}?;Sometimes I want {}, too.
+your/Why are you worrying about my {}?;What about your own {}?
+Ithink/But you are not sure you {}?;Do you doubt you {}?
 Iask/Why do you ask?;Is that a pressing question for you?;What answer would make you most happy?;What answer would you find most satisfying?;What do you think?;Are questions like that on your mind often?;What is it you’re really burning to know?;Have you asked anyone else?;Have you asked questions like that before?;What else do you think of when you ask that?
 because/Is that the real reason?;Do any other reasons come up?;Does that reason explain anything else?;What other reasons might there be?
 sorry/Please, you do not have to apologize!;No need to be sorry, we’re all friends here.;Apologies are not necessary.;How does apologizing make you feel?
@@ -22,7 +22,7 @@ computer/Do computers worry you?;Are you talking about me in particular?;Do mach
 repeat/We won’t get anywhere if you don’t give me anything new.;If it’s an important thought, I’m sure you can find another way to get at it. Try again, or give me something new.;No modern poetry here, kiddo, repetition gets you nothing.;Why did you repeat yourself?;Do you expect a different answer by repeating yourself?;We can’t get anywhere if you don’t give me something new to work with.
 notme/We were talking about you, not me.;You can't really be talking about me, we’ll never get anything done!;I’m not the patient here, you are.;Oh no, no reflecting, this is about you!
 belikeNP/How is that?;What resemblance do you see?;What does the similarity suggest to you?;What other connections do you see?;Could there really be some connection?;How?;Are those really similar?
-compare/What makes that like %s?;How is that like %s?;How is %s like that?;Why do you think %s is like that?
+compare/What makes that like {}?;How is that like {}?;How is {} like that?;Why do you think {} is like that?
 generic/Does that bother you?;Tell me more about those feelings.;What are you thinking of?;What makes you say that?;I gotcha.;I understand.;Say, are you quite right in the head?;I am not sure I understand you fully.;Can you use some more words on that?;That is some very interesting stuff.
 hostile/Hey, you kiss your mother with that mouth?;We’re all friends here, let’s keep it clean.;There’s no need for that kind of talk.
 allcaps/Hey, calm down.;No need to get riled up.;Let’s keep it conversational.
